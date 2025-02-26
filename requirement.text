@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+prophet
+langchain
+langchain-groq
+plotly
